@@ -1,0 +1,21 @@
+{
+  "name": "retrogaming",
+  "version": "1.0.0",
+  "description": "Classic Game Reprogrammed",
+  "main": "game.js",
+  "scripts": {
+    "start": "http-server -c-1 .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akashatek/RetroGaming.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akashatek/RetroGaming/issues"
+  },
+  "homepage": "https://github.com/akashatek/RetroGaming#readme"
+}
