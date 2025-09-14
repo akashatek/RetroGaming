@@ -13,14 +13,28 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    min-width: 75vw;
+    max-width: 90vw;
+    min-height: 75vh;
+    max-height: 90vh;
+    box-sizing: border-box;
+    padding: 10px;
+    margin: auto;
+}
+
+#game-container h1 {
+    font-size: 3vmin;
+    margin-bottom: 10px;
 }
 
 #gameCanvas {
     border: 4px solid #fff;
     background-color: #000;
+    width: 100%;
+    height: auto;
 }
 
 #game-info {
     margin-top: 20px;
-    font-size: 1.2em;
+    font-size: 2vmin;
 }

@@ -1,3 +1,0 @@
-# SORCERY CPC
-
-TBD ...
